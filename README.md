@@ -1,5 +1,5 @@
 # RBFN
-Simple example of Radial Basis Function neural network.
+Simple example of Radial Basis Function neural network implemented from scratch.
 It has one hidden layer, the centers are calculated by k_means.
 The activation function is a negative exponential of the distance between input and desired output.
 The estimator of the cost's gradient is computed manually.
